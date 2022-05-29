@@ -1,0 +1,12 @@
+target/
+
+# IDE
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Azure Functions
+bin/
+obj/
